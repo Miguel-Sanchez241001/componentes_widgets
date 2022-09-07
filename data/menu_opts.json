@@ -15,6 +15,31 @@
             "ruta" : "card",
             "icon" : "folder_open",
             "texto": "Cards - Tarjetas"
+        },
+        {
+            "ruta" : "animacion",
+            "icon" : "donut_large",
+            "texto": "Animacion_Container"
+        },
+        {
+            "ruta" : "input",
+            "icon" : "input",
+            "texto": "Inputs page "
+        },
+        {
+            "ruta" : "slider",
+            "icon" : "tune",
+            "texto": "Slider page "
+        },
+        {
+            "ruta" : "lista",
+            "icon" : "list",
+            "texto": "Lista  page "
+        },
+        {
+            "ruta" : "wasa",
+            "icon" : "list",
+            "texto": "Wasa Clone"
         }
     ]
 }
